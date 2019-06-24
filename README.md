@@ -1,6 +1,9 @@
 # data-science-utils
 Lots of useful functions over Pandas and Python Numpy for Data Science
 
+https://towardsdatascience.com/stock-market-analysis-in-python-part-1-getting-data-by-web-scraping-cb0589aca178
+
+
 ### Installation
 
 `pip install --upgrade --upgrade-strategy only-if-needed https://github.com/faizanahemad/data-science-utils/tarball/master`
